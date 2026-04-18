@@ -1,0 +1,36 @@
+# Environment variables
+.env
+
+# Data files (large CSVs, predictions)
+data/
+*.csv
+
+# Model files (pickle files)
+models/
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+src/__pycache__/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
