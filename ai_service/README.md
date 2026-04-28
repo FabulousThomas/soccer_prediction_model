@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 2. Set up environment variables:
 ```bash
-cp .env.example .env
+cp .env
 # Edit .env with your Telegram token and chat ID
 ```
 
