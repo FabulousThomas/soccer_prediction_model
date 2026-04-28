@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.ipynb_checkpoints/
+data/raw/*.csv  # Optional: only if you want to keep the image slim
